@@ -7,7 +7,7 @@ The main focus of this exercise is transfer learning and you will approach the c
     Training ResNets pretrained on ImageNet.
     Training ResNets pretrained on RadImageNet, a large radiology dataset.
 
-NOTE: This exc is related to:
+NOTE: This exc was designed for
  * Deep Learning for Computer Vision – Winter Term 2025/26 (University of Goettingen)
  * Lecture by: Constantin Pape
  * Organizers: Anwai Archit, Sushmita Nair
